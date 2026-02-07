@@ -18,7 +18,7 @@ function App() {
         </div>
       </header>
       <div className="container ">
-        <main className="w-full h-150  ">
+        <main className="w-full h-150 flex items-center justify-between ">
           <div className="">
             <h1 className="text-white text-6xl">
               New Cafe <br /> by
