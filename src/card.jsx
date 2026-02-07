@@ -8,24 +8,24 @@ const products = [
     sub: "Our fast will serve you quickly",
     price: "7.45$",
     volume: "330 ml",
-    image: "../public/6c93673c21dc6624f65c8b1ed6cb9ec98d1d7896.png", // oddiy takeaway cup (yoki o'zingiznikini qo'ying)
+    image: "/6c93673c21dc6624f65c8b1ed6cb9ec98d1d7896.png",
   },
   {
     name: "Fast",
     sub: "Our fast will serve you quickly",
     price: "7.45$",
     volume: "330 ml",
-    image: "../public/ebd08a563c79bf622e64fa80af12f9fab8b82e86.png", // ikkinchi variant
+    image: "/ebd08a563c79bf622e64fa80af12f9fab8b82e86.png",
   },
   {
     name: "Cappuccino",
     sub: "Our cappuccino is always exquisite",
     price: "7.45$",
     volume: "330 ml",
-    image:
-      "../public/67a38e4ac84b1a66573c20d377540939e66336d4.png", // kapuchino foam art
+    image: "/67a38e4ac84b1a66573c20d377540939e66336d4.png",
   },
 ];
+
 
 const StarbucksCards = () => {
   return (
